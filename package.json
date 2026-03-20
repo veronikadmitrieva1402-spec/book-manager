@@ -3,13 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://veronikadmitrieva1402-spec.github.io/Practice14/book-manager/",
+  "homepage": " https://veronikadmitrieva1402-spec.github.io/book-manager/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist" 
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "vue": "^3.5.30"
